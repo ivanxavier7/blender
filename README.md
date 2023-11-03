@@ -1,15 +1,16 @@
 # Blender
 
-1. Layout
-2. Scene
-3. View
-4. Object
-5. Selection
-6. Modes
-7. Edition
-8. Curves
-9. Render
-10. Timeline
+1. [Layout](https://github.com/ivanxavier7/blender#1---layout)
+2. [Scene](https://github.com/ivanxavier7/blender#2---scene)
+3. [View](https://github.com/ivanxavier7/blender#3---view)
+4. [Object](https://github.com/ivanxavier7/blender#4---object)
+5. [Selection](https://github.com/ivanxavier7/blender#5---selection)
+6. [Modes](https://github.com/ivanxavier7/blender#6---modes)
+7. [Edition](https://github.com/ivanxavier7/blender#7---edition)
+8. [Curves](https://github.com/ivanxavier7/blender#8---curves)
+9. [Render](https://github.com/ivanxavier7/blender#9---render)
+10. [Timeline](https://github.com/ivanxavier7/blender#10---timeline)
+11. [Export Model]()
 
 
 ## 1 - Layout
@@ -157,7 +158,7 @@
 | `P` + `Alt`     | Reset range          |
 | `V`             | Handle type          |
 
-## Export model
+## 11 - Export Model
 
 1. Select objects to be exported
 2. File -> Export -> glTF 2.0
