@@ -10,7 +10,7 @@
 8. [Curves](https://github.com/ivanxavier7/blender#8---curves)
 9. [Render](https://github.com/ivanxavier7/blender#9---render)
 10. [Timeline](https://github.com/ivanxavier7/blender#10---timeline)
-11. [Export Model]()
+11. [Export Model](https://github.com/ivanxavier7/blender#11---export-model)
 
 
 ## 1 - Layout
