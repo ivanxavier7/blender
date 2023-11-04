@@ -171,3 +171,12 @@
 * [Grant Abbitt](https://www.youtube.com/@grabbitt)
 * [CGFastTrack](https://www.youtube.com/@CGFastTrack)
 * [CGCookie](https://www.youtube.com/@cg_cookie)
+
+
+### 1 - First Floor
+
+1. Add ArchiMesh plugin to use house modules.
+
+2. Add Solify transform in the mesh to make it hollow.
+
+3. Add `boolean` Transformer to the frame cut a hole in the mesh and.
