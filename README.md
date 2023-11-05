@@ -165,6 +165,12 @@
 3. Choose file format
 4. Choose project static/models folder
 
+## Extra
+
+Edit mode, select vertices, choose axis and 0 to align them.
+
+Shift + Right Click to place cursor
+
 ## More Blender Youtube resources
 
 * [Blender Guru](https://www.youtube.com/@blenderguru)
