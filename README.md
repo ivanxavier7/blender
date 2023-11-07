@@ -171,6 +171,8 @@ Edit mode, select vertices, choose axis and 0 to align them.
 
 Shift + Right Click to place cursor
 Shift + S - Cursor Menu
+Reset Scales before bevel
+Control + A - Select Scale
 
 ## More Blender Youtube resources
 
